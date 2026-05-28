@@ -2,7 +2,7 @@
 
 > Git 被封、SSH 被拦、`git clone` 永远 Connection Reset？这个工具绕过一切——GitHub API 读目录，curl 逐文件下载，一个文件都不漏。
 
-**企业防火墙？公司代理？统统挡不住。有网就能装 GitHub 上的任何技能。**
+**企业防火墙？公司 VPN？Git 协议被封？统统绕过去。GitHub API + raw 双通道，哪条通走哪条，有网就能装。**
 
 ### 谁需要这个
 
